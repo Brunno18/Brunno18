@@ -1,16 +1,13 @@
-## Hi there 👋
+###seja bem vindo 💙
 
-<!--
-**Brunno18/Brunno18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*meu nome e Brunno👦
 
-Here are some ideas to get you started:
+aqui qualquer um e bem vindo🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudnado no alura📱
+Tenho 16 anos👀
+minha cor favorita e azul📘
+meu signo e aquario♒
+ja fiz 3 projetos no scratch🧮
+-sou do guaruja🏖️
+amo os animais🐶
